@@ -1,0 +1,17 @@
+body{
+    background-color:#354379
+    ;
+}
+
+.todos li {
+    background-color: #1E2542
+    ;
+}
+
+i{
+    cursor: pointer;
+}
+
+.filtred{
+    display: none !important;
+}
